@@ -3,7 +3,7 @@
 
 
 ### View the project here: 
-https://react-events-project.stackblitz.io
+https://invitei.firebaseapp.com/
 
 
 

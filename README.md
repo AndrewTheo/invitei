@@ -8,7 +8,7 @@ https://invitei.firebaseapp.com/
 
 
 ### Tech Used
-#### Frontend: ReactJs, HTML, CSS, Javascript
+#### Frontend: ReactJs, HTML, CSS, Javascript, Hosted on Firebase
 #### Backend: Python, AWS, DynamoDB, AWS Lambda, AWS Api Gateway, NoSQL
 
 

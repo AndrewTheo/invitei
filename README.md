@@ -14,3 +14,9 @@ https://react-events-project.stackblitz.io
 
 Api created using AWS Api Gateway + DynamoDB as database 
 
+
+### How it works:
+First a user will create a event with the details they wish <br/>
+Upon creation an invite link to given so they user can begin inviting <br/>
+Once someone recieves the invite link they can decide if they will be attending  <br/>
+Once a user marks as attending the dashboard for the event will list them as so
